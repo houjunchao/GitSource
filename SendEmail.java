@@ -13,7 +13,7 @@ public class SendEmail
       String to = "hou@localhost";
  
       // 发件人电子邮箱
-      String from = "root@localhost"
+      String from = "root@localhost";
  
       // 指定发送邮件的主机为 localhost
       String host = "localhost";
@@ -52,3 +52,4 @@ public class SendEmail
       }
    }
 }
+
